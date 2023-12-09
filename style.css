@@ -42,3 +42,8 @@ p{
 .car{
     margin-top: 5em;
 }
+
+.dark-mode{
+    background-color: #000000;
+    color: #ffffff;
+}
