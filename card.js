@@ -72,3 +72,10 @@ function alteraBandeira() {
     
  }
 
+ let ano = document.getElementById('ano');
+
+ for (let i = 0; i < 30; i++) {
+    mes.innerHTML += `<option value${ano}>${ano}</option>`
+    
+ }
+
